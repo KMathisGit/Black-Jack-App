@@ -1,4 +1,8 @@
 # Black-Jack-App
-Following is a recreation of the popular card game BlackJack.
+The following is a recreation of the ever so popular card game, BlackJack.
 
-Fully customized and functional GUI application.
+Everything (excluding card images) was completely custom built.
+
+Application is a fully functional GUI where the user plays against a dealer (CPU).
+
+Includes a betting feature that allows the user to bet money that they win in the game.
